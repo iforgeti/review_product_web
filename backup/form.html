@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Results</title>
+  </head>
+  <body>
+    <h1>Results</h1>
+    <h2>Histogram</h2>
+    <img src="{{ url_for('static', filename='histograms.png') }}" alt="Histogram">
+    <form method="get" action="/">
+      <input type="submit" value="Back">
+    </form>
+  </body>
+</html>
