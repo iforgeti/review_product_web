@@ -5,9 +5,10 @@ import twint
 def scraper(keyword):
     c = twint.Config()
     c.Search = keyword
-    c.Limit = 70
+    c.Limit = 50
     c.Store_object = True
-
+    c.Hide_output = True # don't show output in terminal
+    c.Lang = "en" # english
     twint.run.Search(c)
     tweets = twint.output.tweets_list
 

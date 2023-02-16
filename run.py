@@ -29,7 +29,7 @@ def index():
         negative_data = 0
         keylist = []
 
-        keylist = keyword.split(" ") + [keyword.replace(" ","")]
+        keylist = keyword.lower().split(" ") + [keyword.lower().replace(" ","")]+["@"+keyword.lower().replace(" ","")]+["#"]
         
 
         for tw in current_tweets:
