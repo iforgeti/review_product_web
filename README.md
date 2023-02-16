@@ -23,3 +23,8 @@
    * I'm not train much and because this is binary classification, model may bias on negative, next time we may try over-sampling and hyperparameter tuning for improve model  
   
 ![image](https://user-images.githubusercontent.com/78832408/219310666-18d6977d-aff3-485a-8fa5-2e350d84fab2.png)
+
+*bitcoin
+
+![image](https://user-images.githubusercontent.com/78832408/219315763-2a4900c2-3068-4b10-8719-ae343cf34e05.png)
+
