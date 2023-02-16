@@ -3,7 +3,7 @@
 ## how to do
 
 1. in this project, I used twint because i can't get Twitter API --> install twint https://github.com/twintproject/twint/wiki/Setup 
-    * if you can't install maybe upgrade pip or install visual C++ can fix it
+    * if you can't install maybe upgrade pip or install visual C++ can fix it https://visualstudio.microsoft.com/visual-cpp-build-tools/
      ![image](https://user-images.githubusercontent.com/78832408/219311056-8c6537f6-9b7c-461f-b4f4-e360313ff5e4.png)
 
 
