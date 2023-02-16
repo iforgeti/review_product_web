@@ -1,12 +1,12 @@
 # review_product_web
 
-## describe 
+## How to
 
 1. To scrap twitter post by keyword, I used twint because i can't get Twitter API --> install twint https://github.com/twintproject/twint/wiki/Setup 
     * if you can't install maybe upgrade pip or install visual C++ can fix it https://visualstudio.microsoft.com/visual-cpp-build-tools/
      ![image](https://user-images.githubusercontent.com/78832408/219311056-8c6537f6-9b7c-461f-b4f4-e360313ff5e4.png)
 
-
+2. Train model, I used bi-LSTM train with SST2 dataset 
 
 
 
